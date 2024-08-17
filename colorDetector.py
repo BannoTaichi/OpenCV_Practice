@@ -1,3 +1,4 @@
+# 特性の色検出
 import cv2
 import numpy as np
 
